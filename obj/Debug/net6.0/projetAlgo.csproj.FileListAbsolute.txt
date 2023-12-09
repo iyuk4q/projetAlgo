@@ -1,0 +1,15 @@
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.csproj.AssemblyReference.cache
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.AssemblyInfoInputs.cache
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.AssemblyInfo.cs
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.csproj.CoreCompileInputs.cache
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/bin/Debug/net6.0/projetAlgo
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/bin/Debug/net6.0/projetAlgo.deps.json
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/bin/Debug/net6.0/projetAlgo.runtimeconfig.json
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/bin/Debug/net6.0/projetAlgo.dll
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/bin/Debug/net6.0/projetAlgo.pdb
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.dll
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/refint/projetAlgo.dll
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.pdb
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.genruntimeconfig.cache
+/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/ref/projetAlgo.dll
