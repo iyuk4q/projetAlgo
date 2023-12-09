@@ -28,7 +28,6 @@ namespace projetAlgo
 			Joueur joueur2 = new Joueur(nom2);
 			Console.WriteLine("Voulez vous jouer à partir d'un nouveau ou un ancien plato ? ");
             string rep1 = Console.ReadLine();
-            Plato p = new Plato(hauteur, largeur, "Lettre.txt");
 			while((rep1 != "ancien" && rep1 != "nouveau") || rep1 == null)
 			{
                 Console.WriteLine("Erreur, Saisir : nouveau ou ancien");
@@ -53,7 +52,7 @@ namespace projetAlgo
 					{
 						Console.WriteLine("Ce mot n'existe pas");
 					}
-					else if(this.p.Recherche_Mot(tentative) == null)
+					else if(p.Recherche_Mot(tentative) == null)
 					{
 						Console.WriteLine("Ce mot n'est pas sur le plateau");
                     }

@@ -65,22 +65,21 @@ namespace projetAlgo
 			File.WriteAllText(nomfile, toString());
 		}
 
-        public Plato ToRead(string nomfile)
+        public void ToRead(string nomfile)
 		{
 			string[] PlateauProvisoire = File.ReadAllLines(nomfile);
-			hauteur = PlateauProvisoire.Length;
-			largeur = PlateauProvisoire[0].Split(' ').Length;
+			this.hauteur = PlateauProvisoire.Length;
+			this.largeur = PlateauProvisoire[0].Split(' ',',',';').Length;
 			this.plateau = new string[hauteur, largeur];
 			string[] l;
 			for(int i = 0; i < plateau.GetLength(0); i++)
 			{
-                l = PlateauProvisoire[i].Split(' ');
+                l = PlateauProvisoire[i].Split(' ',',', ';');
                 for (int j = 0; j < plateau.GetLength(1); j++)
 				{
-					plateau[i, j] = l[j];
+					this.plateau[i, j] = l[j];
 				}
 			}
-			return this;
 		}
 
         public List<int> Recherche_Mot(string mot, int x = 0, int y = 0, int k = 0, int j = 0, List<int> coordonnees = null)
@@ -92,13 +91,13 @@ namespace projetAlgo
             if (k == 0)
             {
                 coordonnees = new List<int>();
-                for (j=j; j < largeur; j++)
+                for (int i=j; i < largeur; i++)
                 {
-                    if (mot[k].ToString() == plateau[hauteur - 1, j])
+                    if (mot[k].ToString() == plateau[hauteur - 1, i])
                     {
                         coordonnees.Add(hauteur - 1);
-                        coordonnees.Add(j);
-                        return Recherche_Mot(mot, hauteur - 1, j, k + 1, j, coordonnees);
+                        coordonnees.Add(i);
+                        return Recherche_Mot(mot, hauteur - 1, i, k + 1, i, coordonnees);
 
                     }
                 }

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/projetAlgo.csproj": {}
+    "C:\\Users\\bilal\\source\\repos\\projetAlgo\\projetAlgo.csproj": {}
   },
   "projects": {
-    "/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/projetAlgo.csproj": {
+    "C:\\Users\\bilal\\source\\repos\\projetAlgo\\projetAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/projetAlgo.csproj",
+        "projectUniqueName": "C:\\Users\\bilal\\source\\repos\\projetAlgo\\projetAlgo.csproj",
         "projectName": "projetAlgo",
-        "projectPath": "/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/projetAlgo.csproj",
-        "packagesPath": "/Users/ilyasdalldosso/.nuget/packages/",
-        "outputPath": "/Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/",
+        "projectPath": "C:\\Users\\bilal\\source\\repos\\projetAlgo\\projetAlgo.csproj",
+        "packagesPath": "C:\\Users\\bilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bilal\\source\\repos\\projetAlgo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/ilyasdalldosso/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

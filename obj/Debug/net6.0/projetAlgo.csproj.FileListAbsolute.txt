@@ -13,3 +13,17 @@
 /Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.pdb
 /Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/projetAlgo.genruntimeconfig.cache
 /Users/ilyasdalldosso/Projects/projetAlgo/projetAlgo/obj/Debug/net6.0/ref/projetAlgo.dll
+C:\Users\bilal\Source\Repos\projetAlgo\bin\Debug\net6.0\projetAlgo.exe
+C:\Users\bilal\Source\Repos\projetAlgo\bin\Debug\net6.0\projetAlgo.deps.json
+C:\Users\bilal\Source\Repos\projetAlgo\bin\Debug\net6.0\projetAlgo.runtimeconfig.json
+C:\Users\bilal\Source\Repos\projetAlgo\bin\Debug\net6.0\projetAlgo.dll
+C:\Users\bilal\Source\Repos\projetAlgo\bin\Debug\net6.0\projetAlgo.pdb
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\projetAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\projetAlgo.AssemblyInfoInputs.cache
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\projetAlgo.AssemblyInfo.cs
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\projetAlgo.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\projetAlgo.dll
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\refint\projetAlgo.dll
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\projetAlgo.pdb
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\projetAlgo.genruntimeconfig.cache
+C:\Users\bilal\Source\Repos\projetAlgo\obj\Debug\net6.0\ref\projetAlgo.dll
